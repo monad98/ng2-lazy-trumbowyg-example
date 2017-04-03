@@ -1,10 +1,8 @@
-# ng2-lazy-trumbowyg-example
+# ng2-lazy-trumbowyg
+Angular 2 Component for lazy loading of Trumbowyg wysiwyg editor with [loadjs](https://github.com/muicss/loadjs)
 
-## Install and start
+[plunker example app](http://plnkr.co/edit/eFoz6G5Thnpy3J0vRlS4?p=preview) 
+# Run
 ```
-mkdir my-app
-git clone https://github.com/monad98/ng2-lazy-trumbowyg-example.git my-app
-cd my-app
 npm install
 npm start
-```
